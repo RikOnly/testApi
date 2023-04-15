@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "NguyenVanA",
+    "Gender": "Nam",
+    "email": "A@gmail.com",
+    "phone": "09010101010"
+  },
+  {
+    "id": 2,
+    "name": "NguyenVanB",
+    "Gender": "Nam",
+    "email": "B@gmail.com",
+    "phone": "09020202020"
+  },
+  {
+    "id": 3,
+    "name": "NguyenThiC",
+    "Gender": "Nu",
+    "email": "C@gmail.com",
+    "phone": "09030303030"
+  },
+  {
+    "id": 4,
+    "name": "NguyenThiThuyD",
+    "Gender": "Nu",
+    "email": "D@gmail.com",
+    "phone": "09040404040"
+  },
+  {
+    "id": 5,
+    "name": "NguyenHoangE",
+    "Gender": "Nam",
+    "email": "E@gmail.com",
+    "phone": "09050505050"
+  }
+]
